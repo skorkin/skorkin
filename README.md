@@ -1,6 +1,4 @@
-[![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spletnik.ru%2Fculture%2Fcinema%2F8966-istoriya-betmena.html&psig=AOvVaw2S2wNsAzlLSVmnlhdelZDK&ust=1622568230918000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCSou239PACFQAAAAAdAAAAABAD)]
 ### Hi there 👋
-[<img align="left" alt="profile" src="https://www.google.com/search?q=%D0%BF%D0%B8%D0%BA%D0%B0%D1%87%D1%83&sxsrf=ALeKk01h8GIXG3JZbUy8dm5kDS64PDhzPw:1622480006114&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj6-6yDsfTwAhXjl4sKHR1IBBwQ_AUoAXoECAEQAw&biw=2048&bih=1006#imgrc=6oC9J7C0fEWaVM">]
 <!--
 **skorkin/skorkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
